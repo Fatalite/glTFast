@@ -1,7 +1,7 @@
 {
-  "name": "com.atteneder.gltfast",
+  "name": "com.fatalite.gltfast",
   "version": "6.4.0",
-  "displayName": "glTFast",
+  "displayName": "glTFastFatalite",
   "description": "Use glTFast to import and export glTF 3D files efficiently at runtime or in the Editor",
   "unity": "2020.3",
   "keywords": [
@@ -16,7 +16,7 @@
     "basisu"
   ],
   "author": {
-    "name": "Andreas Atteneder",
+    "name": "Fatalite",
     "email": "andreas.atteneder@gmail.com",
     "url": "https://pixel.engineer"
   },
